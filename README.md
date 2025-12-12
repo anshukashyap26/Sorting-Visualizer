@@ -1,4 +1,4 @@
-👉 🔗 Live Demo: [https://peppy-biscotti-7e688e.netlify.app/]
+👉 🔗 Live Demo: https://peppy-biscotti-7e688e.netlify.app/
 # 🔄 Sorting Algorithm Visualizer  
 **Understanding how sorting works through step-by-step animation**
 
